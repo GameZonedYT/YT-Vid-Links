@@ -1,2 +1,2 @@
 # YTVidLinks
-This repository contains the links to all my YouTube videos :)
+This repository contains the download links related all my YouTube videos :)
